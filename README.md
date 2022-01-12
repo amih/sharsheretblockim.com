@@ -42,3 +42,8 @@ npm run debug
 
 ## Configuration
 To change the title, description, author data, menu/nav item, etc, go to `src/_data/`.
+
+/// trying to embed images in md post
+/// https://www.11ty.dev/docs/plugins/image/
+/// ![](/img/eos_guide_01.png)
+/// https://www.cassey.dev/til/2021-07-29-include-nunjucks-in-markdown-11ty/

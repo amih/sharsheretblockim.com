@@ -1,15 +1,15 @@
 [
     {
-        "label": "About",
+        "label": "אודות",
         "url": "/about"
     },
     {
-        "label": "Tag List",
+        "label": "רשימת תגים",
         "url": "/tags"
     },
     {
-        "label": "GitHub",
-        "url": "https://github.com/dafiulh/vredeburg",
+        "label": "קוד מקור",
+        "url": "https://github.com/amih",
         "newTab": true
     }
 ]
